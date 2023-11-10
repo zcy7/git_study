@@ -1,2 +1,2 @@
-this is a git version
+this is a distribute git version
 this is a free
